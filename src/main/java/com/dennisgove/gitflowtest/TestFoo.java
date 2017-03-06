@@ -17,5 +17,5 @@
 package com.dennisgove.gitflowtest;
 
 public class TestFoo {
- d
+
 }
