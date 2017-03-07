@@ -14,8 +14,13 @@
  * limitations under the License.
 */
 
+
 package com.dennisgove.gitflowtest;
 
+/**
+ * foo bar -> c
+ * @foobar 
+ */
 public class TestFoo {
 
 }
