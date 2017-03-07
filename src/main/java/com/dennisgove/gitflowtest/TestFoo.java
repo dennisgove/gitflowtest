@@ -22,5 +22,5 @@ package com.dennisgove.gitflowtest;
  * @foobar 
  */
 public class TestFoo {
-
+  String s = "";
 }
